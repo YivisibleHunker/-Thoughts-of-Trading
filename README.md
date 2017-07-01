@@ -1,2 +1,5 @@
-# -Thoughts-of-Trading
-collection of my thoughts about how to trading successfully 
+# -写在前面 对markdown的介绍
+## 标题
+从（#）到（######)从大到小分别为一级到六级标题
+注意：需要在#后面加一个空格
+
